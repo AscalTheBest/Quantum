@@ -10,6 +10,6 @@ public class singularityQuant extends Item
 	{
         super();
         this.setCreativeTab(mainclass.tabQuantumMain);
-        this.setTextureName(info.ID + ":simgularityQuant");
+        this.setTextureName(info.ID + ":singularityQuant");
 	}
 }

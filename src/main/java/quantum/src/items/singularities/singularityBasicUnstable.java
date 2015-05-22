@@ -10,6 +10,6 @@ public class singularityBasicUnstable extends Item
 	{
         super();
         this.setCreativeTab(mainclass.tabQuantumMain);
-        this.setTextureName(info.ID + ":simgularityBasicUnstable");
+        this.setTextureName(info.ID + ":singularityBasicUnstable");
 	}
 }

@@ -1,5 +1,6 @@
 package quantum.src.tabs;
 
+import quantum.src.register.items;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
@@ -16,7 +17,7 @@ public class tabQuantumMain extends CreativeTabs {
 	@SideOnly(Side.CLIENT)
     public Item getTabIconItem()
     {
-        return Item.getItemFromBlock(Blocks.brick_block);
+        return items.singularityBasic;
     }
 
 	public String getTranslatedTabLabel()

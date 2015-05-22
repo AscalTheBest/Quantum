@@ -1,0 +1,33 @@
+[12:50:48] [main/INFO]: Setting user: Player685
+[12:50:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:50:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Qunatum
+[12:50:56] [Sound Library Loader/INFO]: Sound engine started
+[12:50:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:50:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:50:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Qunatum
+[12:50:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:50:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:50:59] [Sound Library Loader/INFO]: Sound engine started
+[12:51:17] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:51:17] [Server thread/INFO]: Generating keypair
+[12:51:18] [Server thread/INFO]: Preparing start region for level 0
+[12:51:19] [Server thread/INFO]: Preparing spawn area: 78%
+[12:51:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:51:20] [Server thread/INFO]: Player685[local:E:1e6ce183] logged in with entity id 354 at (-468.0032020425833, 79.19221403085743, 253.21741052657126)
+[12:51:20] [Server thread/INFO]: Player685 joined the game
+[12:51:20] [Server thread/INFO]: Saving and pausing game...
+[12:51:20] [Server thread/INFO]: Saving chunks for level 'Test1'/Overworld
+[12:51:20] [Server thread/INFO]: Saving chunks for level 'Test1'/Nether
+[12:51:20] [Server thread/INFO]: Saving chunks for level 'Test1'/The End
+[12:51:22] [Server thread/INFO]: Player685 has just earned the achievement [Taking Inventory]
+[12:51:23] [Client thread/INFO]: [CHAT] Player685 has just earned the achievement [Taking Inventory]
+[12:51:57] [Server thread/INFO]: Saving and pausing game...
+[12:51:57] [Server thread/INFO]: Saving chunks for level 'Test1'/Overworld
+[12:51:57] [Server thread/INFO]: Saving chunks for level 'Test1'/Nether
+[12:51:57] [Server thread/INFO]: Saving chunks for level 'Test1'/The End
+[12:51:58] [Server thread/INFO]: Stopping server
+[12:51:58] [Server thread/INFO]: Saving players
+[12:51:58] [Server thread/INFO]: Saving worlds
+[12:51:58] [Server thread/INFO]: Saving chunks for level 'Test1'/Overworld
+[12:51:58] [Server thread/INFO]: Saving chunks for level 'Test1'/Nether
+[12:51:58] [Server thread/INFO]: Saving chunks for level 'Test1'/The End
